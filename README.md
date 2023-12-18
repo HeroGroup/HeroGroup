@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Navid Hero
-- 👀 I’m interested in Software Enginnering
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning to create software architecture with Node
 - 💞️ I’m looking to collaborate on ...
 - 📫 Email me at navid.hero.1@gmail.com
